@@ -1,4 +1,5 @@
 import java.util.LinkedList;
+//Problem 5 - Data Structure and Algorithms LinkedList 1.0 ver
 public class LinkedListOne {
         public static void main(String [] args) {
             //This linkedlist will store 100 random integers
@@ -38,4 +39,5 @@ public class LinkedListOne {
             }
         }
     }
+
 
