@@ -1,5 +1,6 @@
 import java.util.LinkedList;
 
+ //Problem 5 - Data Structure and Algorithms LinkedList 1.1 ver 
 public class LinkedListTwo {
         public static void main(String [] args) {
 
@@ -38,4 +39,5 @@ public class LinkedListTwo {
                 System.out.println(i + " occurs " + countNumbers.get(i) + " times");
             }
         }
+
     }
