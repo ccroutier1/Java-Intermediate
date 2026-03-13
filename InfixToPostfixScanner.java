@@ -2,7 +2,7 @@
 import java.util.Stack;
 import java.util.Scanner;
 
-public class InfixToPostFixScanner {
+public class InfixToPostfixScanner {
         // Method to determine operator precedence
         public static int Precedence(char ch) {
 
@@ -82,3 +82,4 @@ public class InfixToPostFixScanner {
             sc.close(); // close scanner
         }
     }
+
