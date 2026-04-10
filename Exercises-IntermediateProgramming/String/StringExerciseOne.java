@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//INTERMEDIATE PROGRAMMING
 //Problem 1 - TOGGLE CASE
 public class ToggleCase {
         static void main(String[] args) {
