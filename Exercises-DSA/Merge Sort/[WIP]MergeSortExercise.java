@@ -29,6 +29,7 @@ public class Bendana_Merge  {
             sortingChoice = input.nextInt();
             boolean isSort = true;
 
+// Sorting Choices based on type 
             switch (sortingChoice) {
                 case 1:
                     System.out.println("Sorting by Name..");
